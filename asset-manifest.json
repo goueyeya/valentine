@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/valentine/static/css/main.59afb0a4.css",
+    "main.js": "/valentine/static/js/main.e738834b.js",
+    "static/media/ily.gif": "/valentine/static/media/ily.ec0451a854027e12ddb1.gif",
+    "static/media/gift.png": "/valentine/static/media/gift.313d07da17aded4e0399.png",
+    "static/media/jump-bear.gif": "/valentine/static/media/jump-bear.4b1e382b5ba35af47bab.gif",
+    "static/media/cat-fire.gif": "/valentine/static/media/cat-fire.802cff1407d1b18552a1.gif",
+    "static/media/triste9.jpg": "/valentine/static/media/triste9.c1e727edd925262eb785.jpg",
+    "static/media/letter.png": "/valentine/static/media/letter.4b9af8e3be414de642b0.png",
+    "static/media/triste6.jpg": "/valentine/static/media/triste6.d3213016dbc6420d8bb3.jpg",
+    "static/media/triste1.jpg": "/valentine/static/media/triste1.0297c2f6c10cc126be78.jpg",
+    "static/media/triste7.jpg": "/valentine/static/media/triste7.9e54afaa9fb8e0c11b69.jpg",
+    "static/media/triste4.jpg": "/valentine/static/media/triste4.cc3259b75c4bfa8125d5.jpg",
+    "static/media/triste8.jpg": "/valentine/static/media/triste8.e8970cd62c25553a54a5.jpg",
+    "static/media/triste3.jpg": "/valentine/static/media/triste3.c9fcef0d876ce079340c.jpg",
+    "static/media/triste10.jpg": "/valentine/static/media/triste10.9a4b70a95cd293c86124.jpg",
+    "index.html": "/valentine/index.html",
+    "main.59afb0a4.css.map": "/valentine/static/css/main.59afb0a4.css.map",
+    "main.e738834b.js.map": "/valentine/static/js/main.e738834b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59afb0a4.css",
+    "static/js/main.e738834b.js"
+  ]
+}
